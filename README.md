@@ -26,22 +26,25 @@ src/
 └── ui/
     └── ConsoleUI.java
 
-## 📦 Requisitos
+### ✅ Requisitos previos
 
-- JDK 8 o superior
-- Conexión a internet (para consultar la API)
-- Biblioteca JSON (org.json)
+- Tener instalado **Java 21**
+- Tener instalado **IntelliJ IDEA** (o tu IDE favorito para Java)
+- Acceso a internet (para realizar las conversiones vía API)
 
-### 📚 Agregar la librería JSON
+### 🧪 Pasos para ejecutar
 
-Descargar el archivo .jar desde:
-https://repo1.maven.org/maven2/org/json/json/20240303/json-20240303.jar
+1. Clona el repositorio:
 
-Agregarlo al classpath o al proyecto como biblioteca externa.
+   ```bash
+   https://github.com/Yanina-Unrein/conversor_monedas.git
+   ```
+
+2. Abre el proyecto en IntelliJ IDEA.
+
+3. Ejecuta la clase `Main` del módulo que desees usar:
 
 
 ## API utilizada
 https://api.exchangerate-api.com
-
-Retorna tasas de cambio con base en USD
 
