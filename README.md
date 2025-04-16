@@ -42,7 +42,7 @@ src/
 
 2. Abre el proyecto en IntelliJ IDEA.
 
-3. Ejecuta la clase `Main` del módulo que desees usar:
+3. Ejecuta la clase `Main` 
 
 
 ## API utilizada
